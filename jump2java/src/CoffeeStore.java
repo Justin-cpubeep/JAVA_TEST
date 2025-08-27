@@ -45,6 +45,7 @@ public class CoffeeStore {
                 System.out.println("[5] 출금을 하겠습니다..");
                 //test
                 System.out.println("[3] 제품을 삭제하겠습니다."); //임시문구
+                System.out.println("[3] 제품을 삭제하겠습니다!!!."); //임시문구
                 
                 break;
             case "6":
